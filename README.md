@@ -17,12 +17,11 @@ During the one-week sprint, we were able to implement the following user stories
 
 - **Languages**: Ruby on Rails, HTML, SCSS  
 - **Tools and Platforms**: Heroku (for deployment), GitHub (for version control)
-
-### **Key Gems**:
-- `bootstrap`: For responsive UI design
-- `simple_form`: For easy form handling
-- `font-awesome-sass`: For icons
-- `sassc-rails`: For SCSS compilation
+- **Key Gems**: 
+  - `bootstrap`: For responsive UI design
+  - `simple_form`: For easy form handling
+  - `font-awesome-sass`: For icons
+  - `sassc-rails`: For SCSS compilation
 
 ## **Bits That I Enjoyed Working on the Most**
 
